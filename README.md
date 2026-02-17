@@ -8,3 +8,16 @@ The model classifies products as:
 ✅ Normal (Non-defective)
 
 ❌ Defective
+
+🧠 Technologies Used
+Python
+
+TensorFlow / Keras
+
+OpenCV
+
+NumPy
+
+Matplotlib
+
+Google Colab / Jupyter Notebook
