@@ -21,3 +21,22 @@ NumPy
 Matplotlib
 
 Google Colab / Jupyter Notebook
+
+Dataset
+The project uses a manufacturing defect image dataset containing:
+
+Defective product images
+
+Non-defective product images
+
+Dataset structure:
+
+dataset/
+│
+├── train/
+│   ├── defective/
+│   └── normal/
+│
+└── test/
+    ├── defective/
+    └── normal/
