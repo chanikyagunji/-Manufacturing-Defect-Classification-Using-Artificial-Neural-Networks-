@@ -31,12 +31,29 @@ Non-defective product images
 
 Dataset structure:
 
+
 dataset/
+
+
 │
+
+
 ├── train/
+
+
 │   ├── defective/
+
+
 │   └── normal/
+
+
 │
+
+
 └── test/
+
+
     ├── defective/
+
+    
     └── normal/
