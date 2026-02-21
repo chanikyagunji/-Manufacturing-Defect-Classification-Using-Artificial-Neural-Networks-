@@ -1,0 +1,9 @@
+Loads defect images from folders
+
+Resizes them to 128×128
+
+Builds a CNN (image learning brain)
+
+Learns patterns of defects
+
+Predicts defective or normal
