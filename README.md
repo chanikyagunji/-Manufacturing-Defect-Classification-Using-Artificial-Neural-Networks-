@@ -29,4 +29,19 @@ Defective product images
 
 Non-defective product images
 
-
+1️⃣ Image Capture
+High-speed industrial cameras capture product images on the conveyor belt.
+2️⃣ Image Processing
+Software enhances image quality (noise removal, edge detection).
+3️⃣ AI Model Analysis
+Deep learning models (like CNN) analyze images to detect:
+Cracks
+Scratches
+Missing parts
+Color variations
+4️⃣ Decision Making
+System classifies product as:
+✅ Good
+❌ Defective
+5️⃣ Automated Action
+Defective products are automatically removed.
